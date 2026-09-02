@@ -21,11 +21,11 @@
 <a href="https://github.com/farhankhan117">
 <img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=F8FAFC">
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/farhan-khan-124814267/">
 <img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8">
 </a>
-&nbsp;
+
 <a href="mailto:khanfarhan82795@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=F87171">
 </a>
@@ -40,15 +40,7 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:6366F1,100:A78BFA">
-
-</div>
-
-<br>
-
-# 🧠 AI Engineer Profile
+# 🧠 AI ENGINEER PROFILE
 
 <table>
 <tr>
@@ -72,28 +64,30 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 </td>
 
-<td width="38%" align="center" valign="middle">
-
-<br>
+<td width="38%" align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,mysql" width="260">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/AI%2FML-Engineer-0F172A?style=for-the-badge">
+
 <br>
+
 <img src="https://img.shields.io/badge/LLM-Evaluation-0F172A?style=for-the-badge">
+
 <br>
+
 <img src="https://img.shields.io/badge/Generative-AI-0F172A?style=for-the-badge">
+
 <br>
+
 <img src="https://img.shields.io/badge/Computer-Vision-0F172A?style=for-the-badge">
 
 </td>
 
 </tr>
 </table>
-
-<br>
 
 ---
 
@@ -162,8 +156,6 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 </div>
 
-<br>
-
 ---
 
 # 💼 EXPERIENCE
@@ -171,13 +163,13 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 <table>
 
 <tr>
-<td width="7%" align="center">
+<td width="8%" align="center">
 
 ### 01
 
 </td>
 
-<td width="93%">
+<td width="92%">
 
 ## 🔵 Analyst – AI/LLM Practice
 
@@ -238,8 +230,6 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 </table>
 
-<br>
-
 ---
 
 # 🚀 FEATURED PROJECTS
@@ -264,7 +254,8 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 <br>
 
-<img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Skin Cancer Detection">
+<!-- Dermoscopic / AI Skin Lesion Visual -->
+<img src="https://unipampa.edu.br/portal/sites/default/files/imagens_noticia/artigo2472-1.jpeg" width="100%" alt="AI Skin Lesion Detection">
 
 <br><br>
 
@@ -281,7 +272,7 @@ Dual-input deep learning classifier using **EfficientNet + PyTorch** on 10,000+ 
 
 <br><br>
 
-<a href="https://github.com/farhankhan117/Skin-Cancer-Detection">
+<a href="https://github.com/farhankhan117/Skin-Cancer-Detection-">
 
 <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white">
 
@@ -382,7 +373,7 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 
 <a href="https://github.com/farhankhan117">
 
-<img src="https://img.shields.io/badge/MY%20GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -391,8 +382,6 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 </tr>
 
 </table>
-
-<br>
 
 ---
 
@@ -502,8 +491,6 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 
 </table>
 
-<br>
-
 ---
 
 # 🛠️ TECHNOLOGY STACK
@@ -528,8 +515,6 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 <img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8">
 
 </div>
-
-<br>
 
 ---
 
@@ -610,8 +595,6 @@ AI system
 
 </div>
 
-<br>
-
 ---
 
 # 📈 GITHUB ACTIVITY
@@ -635,8 +618,6 @@ AI system
 <img src="https://streak-stats.demolab.com/?user=farhankhan117&hide_border=true&background=05070B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak">
 
 </div>
-
-<br>
 
 ---
 
@@ -698,31 +679,73 @@ Indira Gandhi National Open University
 
 </table>
 
-<br>
-
 ---
 
 # 🏆 CERTIFICATIONS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-DATA%20ANALYTICS%20WITH%20PYTHON-020617?style=for-the-badge">
+### 📊 Data Analytics with Python
+
+**NPTEL · IIT Roorkee · Skill India**
+
+`MAY 2025`
+
+<!-- Replace CERTIFICATE_URL with your actual certificate URL -->
+
+<a href="CERTIFICATE_URL">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=nptel&logoColor=white">
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HACKERRANK-SQL%20INTERMEDIATE-020617?style=for-the-badge&logo=hackerrank&logoColor=22C55E">
+### 💾 SQL Certification
+
+**MySQL · MongoDB · PostgreSQL · Udemy**
+
+`JUNE 2025`
+
+<a href="CERTIFICATE_URL">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=udemy&logoColor=white">
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/UDEMY-COMPLETE%20DATA%20ANALYST%20BOOTCAMP-020617?style=for-the-badge&logo=udemy&logoColor=A435F0">
+### 🟢 SQL Intermediate
+
+**HackerRank**
+
+`MAY 2025`
+
+<a href="CERTIFICATE_URL">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=hackerrank&logoColor=22C55E">
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/UDEMY-MASTER%20PYTHON%20WITH%20NUMPY-020617?style=for-the-badge&logo=udemy&logoColor=A435F0">
+### 📈 Complete Data Analyst Bootcamp
+
+**Udemy**
+
+`MAY 2025`
+
+<a href="CERTIFICATE_URL">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=udemy&logoColor=white">
+</a>
+
+<br><br>
+
+### 🐍 Master Python with NumPy
+
+**Udemy**
+
+`MAY 2025`
+
+<a href="CERTIFICATE_URL">
+<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=udemy&logoColor=white">
+</a>
 
 </div>
-
-<br>
 
 ---
 
