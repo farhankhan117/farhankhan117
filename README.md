@@ -1,111 +1,376 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=220&section=header&text=Farhan%20Khan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Analyst%20-%20AI/LLM%20Practice&descAlignY=55&descSize=20)
+# 👋 Farhan Khan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Computer+Vision+%26+NLP+Enthusiast;Building+with+LLMs+%26+Generative+AI;Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+### AI/ML Engineer | Analyst – AI/LLM Practice
 
-**Open to full-time AI/ML roles**
-
-![Open to Work](https://img.shields.io/badge/●%20OPEN%20TO%20WORK-0d1117?style=for-the-badge&color=7dd3fc&labelColor=0d1117)
-![Role](https://img.shields.io/badge/AI%2FML%20%7C%20COMPUTER%20VISION%20%7C%20NLP%20%2F%20LLM-0d1117?style=for-the-badge&color=0284c7&labelColor=0d1117)
-
-![Profile Views](https://komarev.com/ghpvc/?username=farhankhan117&color=7dd3fc&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/farhankhan117?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0d1117)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=7dd3fc)](https://www.linkedin.com/in/farhan-khan-124814267/)
-
-</div>
-
----
-
-### 🧠 Who I Am
-
-<div align="center">
-
-![Who I Am](./who-i-am.svg)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-#### 🩺 Skin Cancer Detection
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=farhankhan117&repo=Skin-Cancer-Detection-&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&hide_border=false)](https://github.com/farhankhan117/Skin-Cancer-Detection-)
-
-Dual-input deep learning classifier on 10,000+ ISIC dermatoscopic images achieving 82.3% accuracy using EfficientNet and data augmentation. Qualified in the internationally recognized ISIC MILK10K Challenge.
-
-![Python](https://img.shields.io/badge/Language-Python-7dd3fc?style=flat-square&labelColor=0d1117)
-![PyTorch](https://img.shields.io/badge/Framework-PyTorch-7dd3fc?style=flat-square&labelColor=0d1117)
-![OpenCV](https://img.shields.io/badge/CV-OpenCV-7dd3fc?style=flat-square&labelColor=0d1117)
-![EfficientNet](https://img.shields.io/badge/Model-EfficientNet-7dd3fc?style=flat-square&labelColor=0d1117)
-![Sklearn](https://img.shields.io/badge/Evaluation-Scikit--learn-7dd3fc?style=flat-square&labelColor=0d1117)
-
-🔗 **[View Code →](https://github.com/farhankhan117/Skin-Cancer-Detection-)**
+**Computer Vision • NLP • LLMs • Generative AI • Data Analytics**
 
 <br>
 
-#### 🩹 MediAI — AI Health Consultation System
+🟢 **OPEN TO WORK**
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=farhankhan117&repo=MediAI---AI-Health-Consultation-System&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&hide_border=false)](https://github.com/farhankhan117/MediAI---AI-Health-Consultation-System)
+<br><br>
 
-AI healthcare assistant using LLaMA (Groq API) for symptom analysis, disease prediction via rule-based scoring, and structured medical report generation from multimodal inputs.
+<a href="https://www.linkedin.com/in/farhan-khan-124814267/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-![Python](https://img.shields.io/badge/Language-Python-7dd3fc?style=flat-square&labelColor=0d1117)
-![LLaMA](https://img.shields.io/badge/LLM-LLaMA%20(Groq%20API)-7dd3fc?style=flat-square&labelColor=0d1117)
-![Logic](https://img.shields.io/badge/Logic-Rule--Based%20Scoring-7dd3fc?style=flat-square&labelColor=0d1117)
-![NLP](https://img.shields.io/badge/Domain-NLP%20%2F%20Multimodal-7dd3fc?style=flat-square&labelColor=0d1117)
+<a href="https://github.com/farhankhan117">
+<img src="https://img.shields.io/badge/GitHub-Farhan%20Khan-161B22?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-🔗 **[View Code →](https://github.com/farhankhan117/MediAI---AI-Health-Consultation-System)**
+<a href="https://khanfarhan.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=farhankhan117&label=Profile%20Views&color=0284c7&style=for-the-badge">
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+## 👋 About Me
 
-**Languages**
+<table>
+<tr>
 
-![Skills](https://skillicons.dev/icons?i=py,html,css)
+<td width="30%" align="center">
 
-**AI / ML / DB**
+<img src="./assets/profile.jpg" width="260" style="border-radius:15px;">
 
-![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,mysql)
+</td>
 
-**Dev Tools**
+<td width="70%" valign="middle">
 
-![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+I am an **AI/ML Engineer and AI/LLM professional** with hands-on experience in Machine Learning, Deep Learning, Computer Vision, NLP, LLM evaluation and multimodal AI workflows.
+
+I have worked on **LLM response evaluation, prompt engineering, AI data annotation, ASR transcription review, NLP, Computer Vision and data analytics**.
+
+I enjoy turning real-world problems into practical AI solutions and continuously learning new AI technologies.
+
+<br>
+
+🤖 **AI/ML Engineer**  
+🧠 **LLM Evaluation**  
+✍️ **Prompt Engineering**  
+👁️ **Computer Vision**  
+💬 **NLP & LLMs**  
+📊 **Data Analytics**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+# 💼 Experience
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 🔵 Analyst – AI/LLM Practice
+
+**Innodata India Private Limited**  
+`Dec 2025 – July 2026`
+
+- Evaluated **50–70 LLM responses daily** for accuracy, relevance, coherence and policy alignment.
+- Performed prompt analysis, LLM evaluation and AI data annotation.
+- Performed **English-to-English ASR transcription review**, checking exact word-level accuracy, filler words, repetitions, omissions and non-speech sounds.
+- Performed **English-to-Hindi and Hindi-to-English transcription** according to project guidelines.
+- Worked with multimodal AI workflows involving text, image, audio and video.
+
+---
+
+### 🔵 Data Analytics Intern
+
+**Labmentix Private Limited**  
+`Apr 2025 – Oct 2025`
+
+- Cleaned and analyzed datasets using Python, Pandas and NumPy.
+- Performed EDA using Matplotlib and Seaborn.
+- Created Power BI dashboards for Amazon sales analytics.
+
+---
+
+### 🔵 AI/ML Engineer Intern
+
+**Saral Pixel AI Labs Private Limited**  
+`Oct 2024 – Mar 2025`
+
+- Annotated medical images using CVAT, Supervisely and Sreeni.
+- Performed image preprocessing and augmentation.
+- Worked on CNN-based image classification and segmentation models.
+
+</td>
+
+<td width="40%" valign="top">
+
+## 🛠️ Core Skills
+
+### 🤖 AI / ML / DL
+
+`Machine Learning`  
+`Deep Learning`  
+`PyTorch`  
+`TensorFlow`  
+`Scikit-learn`
+
+### 👁️ Computer Vision
+
+`OpenCV`  
+`CNN`  
+`Image Classification`  
+`Image Segmentation`  
+`Transfer Learning`
+
+### 🧠 NLP / LLM
+
+`NLP`  
+`LLMs`  
+`Prompt Engineering`  
+`Prompt Evaluation`  
+`Generative AI`  
+`RLHF`  
+`LLM Evaluation`
+
+### 📊 Data
+
+`Python`  
+`Pandas`  
+`NumPy`  
+`SQL`  
+`MySQL`  
+`Power BI`  
+`Excel`
+
+### 🎙️ AI Evaluation
+
+`ASR`  
+`Transcription`  
+`Audio Evaluation`  
+`Multimodal AI`  
+`Data Annotation`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🩺 Skin Cancer Detection
+
+<img src="./assets/skin-cancer.png" width="100%">
+
+Dual-input deep learning classifier using **EfficientNet and PyTorch** on 10,000+ ISIC dermatoscopic images.
+
+**Accuracy: 82.3%**
+
+`Python` `PyTorch`  
+`OpenCV` `EfficientNet`  
+`Scikit-learn`
+
+<br>
+
+<a href="https://github.com/farhankhan117/Skin-Cancer-Detection-">
+
+🔗 **View Code →**
+
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🩹 MediAI
+
+<img src="./assets/mediai.png" width="100%">
+
+AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-based scoring and structured report generation.
+
+`Python` `LLaMA`  
+`Groq API` `NLP`  
+`Multimodal AI`
+
+<br>
+
+<a href="https://github.com/farhankhan117/MediAI---AI-Health-Consultation-System">
+
+🔗 **View Code →**
+
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### ❤️ Heart Disease Prediction
+
+<img src="./assets/heart-disease.png" width="100%">
+
+Machine learning project comparing supervised learning algorithms for heart disease prediction.
+
+**Accuracy: 89.32%**
+
+`Python` `Scikit-learn`  
+`Pandas` `Matplotlib`  
+`Seaborn`
+
+<br>
+
+<a href="https://github.com/farhankhan117/Heart-Disease-Prediction">
+
+🔗 **View Code →**
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧰 Tech Stack
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan117&layout=compact&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&hide_border=false)
-
-![Streak Stats](https://streak-stats.demolab.com?user=farhankhan117&theme=tokyonight&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&background=0d1117)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=farhankhan117&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhankhan117&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff)
+| | Technologies |
+|---|---|
+| 🐍 **Programming** | Python • SQL • HTML • CSS |
+| 🤖 **AI / ML** | PyTorch • TensorFlow • Keras • Scikit-learn |
+| 👁️ **Computer Vision** | OpenCV • CNN • EfficientNet |
+| 🧠 **NLP / LLM** | NLP • LLaMA • Generative AI • Prompt Engineering |
+| 📊 **Data** | Pandas • NumPy • Matplotlib • Seaborn • Power BI |
+| 🗄️ **Database** | MySQL • SQLite |
+| 🏷️ **Annotation** | CVAT • Supervisely • Sreeni • Label Studio • V7 • Scale AI |
+| 🔧 **Tools** | Git • GitHub • VS Code • Jupyter |
 
 </div>
 
 ---
 
-### 🤝 Connect with Me
+# ⚡ Technologies
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhankhan117)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-khan-124814267/)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy,mysql,git,github,vscode,jupyter">
 
 </div>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:7dd3fc&height=120&section=footer)
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan117&layout=compact&theme=github_dark&hide_border=true">
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=farhankhan117&theme=github-dark-blue&hide_border=true">
+
+</div>
+
+---
+
+# 🎓 Education
+
+<table>
+
+<tr>
+<td>
+
+### 🎓 M.Sc. Artificial Intelligence & Machine Learning
+
+**Jamia Millia Islamia University**
+
+`2024 – 2026` • **CGPA: 9.0/10**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎓 PGDCA
+
+**Jamia Millia Islamia University**
+
+`2023 – 2024` • **CGPA: 8.11/10**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎓 B.Sc. General
+
+**Indira Gandhi National Open University**
+
+`2020 – 2023` • **68.05%**
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 📜 Certifications
+
+- 🏆 Data Analytics with Python — NPTEL / IIT Roorkee
+- 🏆 SQL — MySQL / MongoDB / PostgreSQL
+- 🏆 SQL Intermediate — HackerRank
+- 🏆 Complete Data Analyst Bootcamp — Udemy
+- 🏆 Master Python with NumPy — Udemy
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/farhankhan117">
+<img src="https://img.shields.io/badge/GitHub-farhankhan117-161B22?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/farhan-khan-124814267/">
+<img src="https://img.shields.io/badge/LinkedIn-Farhan%20Khan-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://khanfarhan.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-khanfarhan.netlify.app-0284C7?style=for-the-badge&logo=googlechrome">
+</a>
+
+<br><br>
+
+📧 **khanfarhan82795@gmail.com**
+
+### 🚀 Open to AI/ML • LLM • Generative AI • Data • Computer Vision Roles
+
+</div>
+
+---
+
+<div align="center">
+
+**© 2026 Farhan Khan • Built with ❤️ and ☕**
+
+</div>
