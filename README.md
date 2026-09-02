@@ -1,6 +1,8 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
 
 <a href="https://github.com/farhankhan117">
 
@@ -182,6 +184,10 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 `LLM Evaluation` · `Prompt Analysis` · `AI Annotation` · `ASR` · `Multimodal AI`
 
+<br><br>
+
+Evaluated **50–70 LLM responses daily**, reviewed AI outputs, analyzed prompts, performed annotation and worked on AI quality workflows.
+
 </td>
 
 </tr>
@@ -205,6 +211,10 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 <br>
 
 `Python` · `Pandas` · `NumPy` · `EDA` · `Power BI`
+
+<br><br>
+
+Worked on data preprocessing, exploratory data analysis, Amazon sales analytics and Power BI dashboards across multiple product categories.
 
 </td>
 
@@ -230,6 +240,10 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 `Medical Image Annotation` · `Computer Vision` · `CNN` · `Image Preprocessing`
 
+<br><br>
+
+Worked on medical image annotation, preprocessing, augmentation and CNN-based image segmentation and classification workflows.
+
 </td>
 
 </tr>
@@ -243,6 +257,10 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 <div align="center">
 
 ### Selected AI / ML Work
+
+<br>
+
+Building practical solutions across **Computer Vision, Deep Learning, LLMs, NLP and Machine Learning.**
 
 </div>
 
@@ -260,21 +278,20 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 <br>
 
-<!-- Dermoscopic / AI Skin Lesion Visual -->
-
-<img src="https://unipampa.edu.br/portal/sites/default/files/imagens_noticia/artigo2472-1.jpeg" width="100%" alt="AI Skin Lesion Detection">
+<img src="https://unipampa.edu.br/portal/sites/default/files/imagens_noticia/artigo2472-1.jpeg" width="100%" alt="Dermoscopic AI Skin Lesion Detection">
 
 <br><br>
 
-Dual-input deep learning classifier using **EfficientNet + PyTorch** on 10,000+ ISIC dermatoscopic images.
+Dual-input deep learning classifier using **EfficientNet + PyTorch** on **10,000+ ISIC dermatoscopic images**.
 
-<br>
+<br><br>
 
 ### `82.3% ACCURACY`
 
 <br>
 
-`Python` `PyTorch` `OpenCV`  
+`Python` `PyTorch` `OpenCV`
+
 `EfficientNet` `Scikit-learn`
 
 <br><br>
@@ -295,19 +312,20 @@ Dual-input deep learning classifier using **EfficientNet + PyTorch** on 10,000+ 
 
 <br>
 
-<img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=1000&q=85" width="100%" alt="MediAI">
+<img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=1000&q=85" width="100%" alt="MediAI Healthcare AI">
 
 <br><br>
 
 AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-based scoring and structured report generation.
 
-<br>
+<br><br>
 
 ### `LLM + AI`
 
 <br>
 
-`Python` `LLaMA` `Groq API`  
+`Python` `LLaMA` `Groq API`
+
 `NLP` `Multimodal AI`
 
 <br><br>
@@ -338,13 +356,14 @@ AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-ba
 
 Machine learning project comparing supervised algorithms for heart disease prediction.
 
-<br>
+<br><br>
 
 ### `89.32% ACCURACY`
 
 <br>
 
-`Python` `Scikit-learn`  
+`Python` `Scikit-learn`
+
 `Pandas` `Matplotlib` `Seaborn`
 
 <br><br>
@@ -371,9 +390,10 @@ Machine learning project comparing supervised algorithms for heart disease predi
 
 Hands-on work across **LLM response evaluation, prompt engineering, ASR transcription review, AI data annotation, multimodal AI and AI quality workflows**.
 
-<br>
+<br><br>
 
-`LLM Evaluation` `Prompt Engineering`  
+`LLM Evaluation` `Prompt Engineering`
+
 `ASR` `Annotation` `Multimodal AI`
 
 <br><br>
@@ -402,7 +422,7 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 
 ## 🤖 AI / MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" width="220">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" width="220" alt="AI ML Stack">
 
 <br><br>
 
@@ -508,25 +528,25 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-020617?style=for-the-badge">
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-020617?style=for-the-badge" alt="Prompt Engineering">
 
-<img src="https://img.shields.io/badge/LLM%20EVALUATION-020617?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLM%20EVALUATION-020617?style=for-the-badge" alt="LLM Evaluation">
 
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-020617?style=for-the-badge">
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-020617?style=for-the-badge" alt="Computer Vision">
 
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-020617?style=for-the-badge">
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-020617?style=for-the-badge" alt="Data Analytics">
 
 <br>
 
-<img src="https://img.shields.io/badge/PYTHON-020617?style=for-the-badge&logo=python&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/PYTHON-020617?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python">
 
-<img src="https://img.shields.io/badge/PYTORCH-020617?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/PYTORCH-020617?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
 
-<img src="https://img.shields.io/badge/TENSORFLOW-020617?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
+<img src="https://img.shields.io/badge/TENSORFLOW-020617?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
 
-<img src="https://img.shields.io/badge/OPENCV-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
+<img src="https://img.shields.io/badge/OPENCV-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
 
-<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="SQL">
 
 </div>
 
@@ -617,7 +637,7 @@ AI system
 
 <a href="https://github.com/farhankhan117">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&hide_border=true&bg_color=05070B&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&hide_border=true&bg_color=05070B&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="Farhan's GitHub Stats">
 
 </a>
 
@@ -803,6 +823,12 @@ Focused on strengthening:
 
 </table>
 
+<br>
+
+<sub>
+Certificate verification links will be added when the original certificate URLs are available.
+</sub>
+
 </div>
 
 ---
@@ -835,13 +861,15 @@ Focused on strengthening:
 
 <a href="mailto:khanfarhan82795@gmail.com">
 
-<img src="https://img.shields.io/badge/khanfarhan82795%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email">
+<img src="https://img.shields.io/badge/khanfarhan82795%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email Farhan">
 
 </a>
 
 <br><br>
 
-<sub>AI/ML • LLM Evaluation • Generative AI • Computer Vision • NLP</sub>
+<sub>
+AI/ML • LLM Evaluation • Generative AI • Computer Vision • NLP
+</sub>
 
 <br><br>
 
