@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
 
 <a href="https://github.com/farhankhan117">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,35:0B1120,65:1E1B4B,100:312E81&text=FARHAN%20KHAN&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20%E2%80%A2%20GENERATIVE%20AI&descAlignY=58&descSize=20&descColor=93C5FD&animation=twinkling&stroke=38BDF8&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,35:0B1120,65:1E1B4B,100:312E81&text=FARHAN%20KHAN&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20%E2%80%A2%20GENERATIVE%20AI&descAlignY=58&descSize=20&descColor=93C5FD&animation=twinkling&stroke=38BDF8&strokeWidth=1" alt="Farhan Khan - AI ML Engineer">
 
 </a>
 
@@ -14,25 +16,25 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/●%20OPEN%20TO%20WORK-020617?style=for-the-badge&labelColor=020617&color=22C55E">
+<img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-020617?style=for-the-badge&labelColor=020617&color=22C55E" alt="Open to Work">
 
 <br><br>
 
 <a href="https://github.com/farhankhan117">
-<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=F8FAFC">
+<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/farhan-khan-124814267/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn">
 </a>
 
 <a href="mailto:khanfarhan82795@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=F87171">
+<img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=farhankhan117&label=PROFILE%20VIEWS&color=312E81&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=farhankhan117&label=PROFILE%20VIEWS&color=312E81&style=for-the-badge" alt="Profile Views">
 
 </div>
 
@@ -66,7 +68,7 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 <td width="38%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,mysql" width="260">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,mysql" width="260" alt="Technical Skills">
 
 <br><br>
 
@@ -163,6 +165,7 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 <table>
 
 <tr>
+
 <td width="8%" align="center">
 
 ### 01
@@ -181,10 +184,16 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 `LLM Evaluation` · `Prompt Analysis` · `AI Annotation` · `ASR` · `Multimodal AI`
 
+<br><br>
+
+Evaluated **50–70 LLM responses daily**, reviewed AI outputs, analyzed prompts, performed annotation and worked on AI quality workflows.
+
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### 02
@@ -203,10 +212,16 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 `Python` · `Pandas` · `NumPy` · `EDA` · `Power BI`
 
+<br><br>
+
+Worked on data preprocessing, exploratory data analysis, Amazon sales analytics and Power BI dashboards across multiple product categories.
+
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### 03
@@ -225,7 +240,12 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 `Medical Image Annotation` · `Computer Vision` · `CNN` · `Image Preprocessing`
 
+<br><br>
+
+Worked on medical image annotation, preprocessing, augmentation and CNN-based image segmentation and classification workflows.
+
 </td>
+
 </tr>
 
 </table>
@@ -237,6 +257,10 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 <div align="center">
 
 ### Selected AI / ML Work
+
+<br>
+
+Building practical solutions across **Computer Vision, Deep Learning, LLMs, NLP and Machine Learning.**
 
 </div>
 
@@ -254,27 +278,27 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 <br>
 
-<!-- Dermoscopic / AI Skin Lesion Visual -->
-<img src="https://unipampa.edu.br/portal/sites/default/files/imagens_noticia/artigo2472-1.jpeg" width="100%" alt="AI Skin Lesion Detection">
+<img src="https://unipampa.edu.br/portal/sites/default/files/imagens_noticia/artigo2472-1.jpeg" width="100%" alt="Dermoscopic AI Skin Lesion Detection">
 
 <br><br>
 
-Dual-input deep learning classifier using **EfficientNet + PyTorch** on 10,000+ ISIC dermatoscopic images.
+Dual-input deep learning classifier using **EfficientNet + PyTorch** on **10,000+ ISIC dermatoscopic images**.
 
-<br>
+<br><br>
 
 ### `82.3% ACCURACY`
 
 <br>
 
-`Python` `PyTorch` `OpenCV`  
+`Python` `PyTorch` `OpenCV`
+
 `EfficientNet` `Scikit-learn`
 
 <br><br>
 
-<a href="https://github.com/farhankhan117/Skin-Cancer-Detection-">
+<a href="https://github.com/farhankhan117/Skin-Cancer-Detection">
 
-<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Skin Cancer GitHub">
 
 </a>
 
@@ -288,26 +312,27 @@ Dual-input deep learning classifier using **EfficientNet + PyTorch** on 10,000+ 
 
 <br>
 
-<img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=1000&q=85" width="100%" alt="MediAI">
+<img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=1000&q=85" width="100%" alt="MediAI Healthcare AI">
 
 <br><br>
 
 AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-based scoring and structured report generation.
 
-<br>
+<br><br>
 
 ### `LLM + AI`
 
 <br>
 
-`Python` `LLaMA` `Groq API`  
+`Python` `LLaMA` `Groq API`
+
 `NLP` `Multimodal AI`
 
 <br><br>
 
 <a href="https://github.com/farhankhan117/MediAI---AI-Health-Consultation-System">
 
-<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="MediAI GitHub">
 
 </a>
 
@@ -331,20 +356,21 @@ AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-ba
 
 Machine learning project comparing supervised algorithms for heart disease prediction.
 
-<br>
+<br><br>
 
 ### `89.32% ACCURACY`
 
 <br>
 
-`Python` `Scikit-learn`  
+`Python` `Scikit-learn`
+
 `Pandas` `Matplotlib` `Seaborn`
 
 <br><br>
 
 <a href="https://github.com/farhankhan117/Heart-Disease-Prediction">
 
-<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Heart Disease GitHub">
 
 </a>
 
@@ -364,16 +390,17 @@ Machine learning project comparing supervised algorithms for heart disease predi
 
 Hands-on work across **LLM response evaluation, prompt engineering, ASR transcription review, AI data annotation, multimodal AI and AI quality workflows**.
 
-<br>
+<br><br>
 
-`LLM Evaluation` `Prompt Engineering`  
+`LLM Evaluation` `Prompt Engineering`
+
 `ASR` `Annotation` `Multimodal AI`
 
 <br><br>
 
 <a href="https://github.com/farhankhan117">
 
-<img src="https://img.shields.io/badge/VIEW%20GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 
 </a>
 
@@ -395,7 +422,7 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 
 ## 🤖 AI / MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" width="220">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" width="220" alt="AI ML Stack">
 
 <br><br>
 
@@ -497,22 +524,29 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,mysql,git,github,vscode,jupyter" width="500">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,mysql,git,github,vscode,jupyter" width="500" alt="Technology Stack">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-020617?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLM%20EVALUATION-020617?style=for-the-badge">
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-020617?style=for-the-badge">
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-020617?style=for-the-badge">
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-020617?style=for-the-badge" alt="Prompt Engineering">
+
+<img src="https://img.shields.io/badge/LLM%20EVALUATION-020617?style=for-the-badge" alt="LLM Evaluation">
+
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-020617?style=for-the-badge" alt="Computer Vision">
+
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-020617?style=for-the-badge" alt="Data Analytics">
 
 <br>
 
-<img src="https://img.shields.io/badge/PYTHON-020617?style=for-the-badge&logo=python&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/PYTORCH-020617?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
-<img src="https://img.shields.io/badge/TENSORFLOW-020617?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
-<img src="https://img.shields.io/badge/OPENCV-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
-<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/PYTHON-020617?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python">
+
+<img src="https://img.shields.io/badge/PYTORCH-020617?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+
+<img src="https://img.shields.io/badge/TENSORFLOW-020617?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
+
+<img src="https://img.shields.io/badge/OPENCV-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
+
+<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="SQL">
 
 </div>
 
@@ -603,7 +637,7 @@ AI system
 
 <a href="https://github.com/farhankhan117">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&hide_border=true&bg_color=05070B&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&hide_border=true&bg_color=05070B&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="Farhan's GitHub Stats">
 
 </a>
 
@@ -639,6 +673,8 @@ Jamia Millia Islamia University
 
 **9.0 / 10 CGPA**
 
+<br>
+
 `2024 – 2026`
 
 </td>
@@ -654,6 +690,8 @@ Jamia Millia Islamia University
 <br>
 
 **8.11 / 10 CGPA**
+
+<br>
 
 `2023 – 2024`
 
@@ -671,6 +709,8 @@ Indira Gandhi National Open University
 
 **68.05%**
 
+<br>
+
 `2020 – 2023`
 
 </td>
@@ -685,19 +725,25 @@ Indira Gandhi National Open University
 
 <div align="center">
 
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### 📊 Data Analytics with Python
 
 **NPTEL · IIT Roorkee · Skill India**
 
 `MAY 2025`
 
-<!-- Replace CERTIFICATE_URL with your actual certificate URL -->
-
-<a href="CERTIFICATE_URL">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=nptel&logoColor=white">
-</a>
-
 <br><br>
+
+<img src="https://img.shields.io/badge/NPTEL-IIT%20ROORKEE-020617?style=for-the-badge&logoColor=white" alt="NPTEL">
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 💾 SQL Certification
 
@@ -705,11 +751,17 @@ Indira Gandhi National Open University
 
 `JUNE 2025`
 
-<a href="CERTIFICATE_URL">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=udemy&logoColor=white">
-</a>
-
 <br><br>
+
+<img src="https://img.shields.io/badge/UDEMY-SQL-020617?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy SQL">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🟢 SQL Intermediate
 
@@ -717,11 +769,13 @@ Indira Gandhi National Open University
 
 `MAY 2025`
 
-<a href="CERTIFICATE_URL">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=hackerrank&logoColor=22C55E">
-</a>
-
 <br><br>
+
+<img src="https://img.shields.io/badge/HACKERRANK-SQL%20INTERMEDIATE-020617?style=for-the-badge&logo=hackerrank&logoColor=22C55E" alt="HackerRank SQL">
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📈 Complete Data Analyst Bootcamp
 
@@ -729,11 +783,17 @@ Indira Gandhi National Open University
 
 `MAY 2025`
 
-<a href="CERTIFICATE_URL">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=udemy&logoColor=white">
-</a>
-
 <br><br>
+
+<img src="https://img.shields.io/badge/UDEMY-DATA%20ANALYST-020617?style=for-the-badge&logo=udemy&logoColor=white" alt="Data Analyst Bootcamp">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🐍 Master Python with NumPy
 
@@ -741,9 +801,33 @@ Indira Gandhi National Open University
 
 `MAY 2025`
 
-<a href="CERTIFICATE_URL">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATE-0284C7?style=for-the-badge&logo=udemy&logoColor=white">
-</a>
+<br><br>
+
+<img src="https://img.shields.io/badge/UDEMY-PYTHON%20%2B%20NUMPY-020617?style=for-the-badge&logo=udemy&logoColor=white" alt="Python NumPy">
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Continuous Learning
+
+Focused on strengthening:
+
+`AI/ML` · `LLMs` · `Generative AI`
+
+`Computer Vision` · `NLP` · `Data Analytics`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<sub>
+Certificate verification links will be added when the original certificate URLs are available.
+</sub>
 
 </div>
 
@@ -751,7 +835,7 @@ Indira Gandhi National Open University
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:6366F1,100:A78BFA">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:6366F1,100:A78BFA" alt="Section Divider">
 
 <br><br>
 
@@ -762,25 +846,33 @@ Indira Gandhi National Open University
 <br>
 
 <a href="https://github.com/farhankhan117">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-020617?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
+
 </a>
 
 <a href="https://www.linkedin.com/in/farhan-khan-124814267/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+
 </a>
 
 <br><br>
 
 <a href="mailto:khanfarhan82795@gmail.com">
-<img src="https://img.shields.io/badge/khanfarhan82795%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=F87171">
+
+<img src="https://img.shields.io/badge/khanfarhan82795%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email Farhan">
+
 </a>
 
 <br><br>
 
-<sub>AI/ML • LLM Evaluation • Generative AI • Computer Vision • NLP</sub>
+<sub>
+AI/ML • LLM Evaluation • Generative AI • Computer Vision • NLP
+</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,35:0F172A,70:312E81,100:38BDF8">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,35:0F172A,70:312E81,100:38BDF8" alt="Footer">
 
 </div>
