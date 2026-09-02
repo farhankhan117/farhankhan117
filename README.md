@@ -1,166 +1,84 @@
 <div align="center">
 
-# 👋 Farhan Khan
+<!-- ===================== HERO ===================== -->
 
-### AI/ML Engineer | Analyst – AI/LLM Practice
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=FARHAN%20KHAN&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20LLM%20%7C%20GENERATIVE%20AI&descSize=20&descAlignY=60&animation=fadeIn&color=0:020617,25:061b3a,55:0c4a6e,80:0369a1,100:0284c7">
 
-**Computer Vision • NLP • LLMs • Generative AI • Data Analytics**
+### `AI/ML Engineer` · `LLM` · `Generative AI` · `Computer Vision`
 
 <br>
 
-🟢 **OPEN TO WORK**
-
-<br><br>
+<a href="https://github.com/farhankhan117">
+<img src="https://img.shields.io/badge/GitHub-farhankhan117-020617?style=for-the-badge&logo=github&logoColor=ffffff">
+</a>
 
 <a href="https://www.linkedin.com/in/farhan-khan-124814267/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/farhankhan117">
-<img src="https://img.shields.io/badge/GitHub-Farhan%20Khan-161B22?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://khanfarhan.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Farhan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=farhankhan117&label=Profile%20Views&color=0284c7&style=for-the-badge">
+<img src="https://img.shields.io/badge/●%20OPEN%20TO%20WORK-16a34a?style=for-the-badge&labelColor=020617&color=16a34a">
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 <table>
 <tr>
 
-<td width="30%" align="center">
+<td width="65%" valign="top">
 
-<img src="./assets/profile.jpg" width="260" style="border-radius:15px;">
+I am an **AI/ML Engineer and AI/LLM professional** with hands-on experience across **Machine Learning, Deep Learning, Computer Vision, NLP, LLM evaluation and multimodal AI**.
+
+My work includes **LLM response evaluation, prompt engineering, AI data annotation, ASR transcription review, NLP workflows, computer vision and data analytics**.
+
+I enjoy building practical AI systems, evaluating model outputs, working with data and continuously exploring new AI technologies.
 
 </td>
 
-<td width="70%" valign="middle">
+<td width="35%" align="center">
 
-I am an **AI/ML Engineer and AI/LLM professional** with hands-on experience in Machine Learning, Deep Learning, Computer Vision, NLP, LLM evaluation and multimodal AI workflows.
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" width="220">
 
-I have worked on **LLM response evaluation, prompt engineering, AI data annotation, ASR transcription review, NLP, Computer Vision and data analytics**.
+<br><br>
 
-I enjoy turning real-world problems into practical AI solutions and continuously learning new AI technologies.
+<img src="https://img.shields.io/badge/AI%2FML-Engineer-0284c7?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/LLM-Evaluation-0369a1?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/Prompt-Engineering-075985?style=for-the-badge">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Professional Experience
+
+<div align="center">
+
+| Role | Company | Duration | Experience |
+|:---|:---|:---:|:---:|
+| **Analyst – AI/LLM Practice** | **Innodata India Private Limited** | Dec 2025 – July 2026 | **8 months** |
+| **Data Analytics Intern** | **Labmentix Private Limited** | Apr 2025 – Oct 2025 | **7 months** |
+| **AI/ML Engineer Intern** | **Saral Pixel AI Labs Private Limited** | Oct 2024 – Mar 2025 | **6 months** |
+
+</div>
 
 <br>
 
-🤖 **AI/ML Engineer**  
-🧠 **LLM Evaluation**  
-✍️ **Prompt Engineering**  
-👁️ **Computer Vision**  
-💬 **NLP & LLMs**  
-📊 **Data Analytics**
+<div align="center">
 
-</td>
+<img src="https://img.shields.io/badge/AI%20%2F%20LLM-8%20Months-0284c7?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/Data%20Analytics-7%20Months-0369a1?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/AI%2FML-6%20Months-075985?style=for-the-badge&labelColor=020617">
 
-</tr>
-</table>
-
----
-
-# 💼 Experience
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-### 🔵 Analyst – AI/LLM Practice
-
-**Innodata India Private Limited**  
-`Dec 2025 – July 2026`
-
-- Evaluated **50–70 LLM responses daily** for accuracy, relevance, coherence and policy alignment.
-- Performed prompt analysis, LLM evaluation and AI data annotation.
-- Performed **English-to-English ASR transcription review**, checking exact word-level accuracy, filler words, repetitions, omissions and non-speech sounds.
-- Performed **English-to-Hindi and Hindi-to-English transcription** according to project guidelines.
-- Worked with multimodal AI workflows involving text, image, audio and video.
-
----
-
-### 🔵 Data Analytics Intern
-
-**Labmentix Private Limited**  
-`Apr 2025 – Oct 2025`
-
-- Cleaned and analyzed datasets using Python, Pandas and NumPy.
-- Performed EDA using Matplotlib and Seaborn.
-- Created Power BI dashboards for Amazon sales analytics.
-
----
-
-### 🔵 AI/ML Engineer Intern
-
-**Saral Pixel AI Labs Private Limited**  
-`Oct 2024 – Mar 2025`
-
-- Annotated medical images using CVAT, Supervisely and Sreeni.
-- Performed image preprocessing and augmentation.
-- Worked on CNN-based image classification and segmentation models.
-
-</td>
-
-<td width="40%" valign="top">
-
-## 🛠️ Core Skills
-
-### 🤖 AI / ML / DL
-
-`Machine Learning`  
-`Deep Learning`  
-`PyTorch`  
-`TensorFlow`  
-`Scikit-learn`
-
-### 👁️ Computer Vision
-
-`OpenCV`  
-`CNN`  
-`Image Classification`  
-`Image Segmentation`  
-`Transfer Learning`
-
-### 🧠 NLP / LLM
-
-`NLP`  
-`LLMs`  
-`Prompt Engineering`  
-`Prompt Evaluation`  
-`Generative AI`  
-`RLHF`  
-`LLM Evaluation`
-
-### 📊 Data
-
-`Python`  
-`Pandas`  
-`NumPy`  
-`SQL`  
-`MySQL`  
-`Power BI`  
-`Excel`
-
-### 🎙️ AI Evaluation
-
-`ASR`  
-`Transcription`  
-`Audio Evaluation`  
-`Multimodal AI`  
-`Data Annotation`
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -171,13 +89,15 @@ I enjoy turning real-world problems into practical AI solutions and continuously
 
 <td width="33%" valign="top">
 
-### 🩺 Skin Cancer Detection
+## 🩺 Skin Cancer Detection
 
-<img src="./assets/skin-cancer.png" width="100%">
+**Deep Learning · Computer Vision**
 
-Dual-input deep learning classifier using **EfficientNet and PyTorch** on 10,000+ ISIC dermatoscopic images.
+Dual-input deep learning classifier using **EfficientNet + PyTorch** on 10,000+ ISIC dermatoscopic images.
 
-**Accuracy: 82.3%**
+**82.3% Accuracy**
+
+<br>
 
 `Python` `PyTorch`  
 `OpenCV` `EfficientNet`  
@@ -187,7 +107,7 @@ Dual-input deep learning classifier using **EfficientNet and PyTorch** on 10,000
 
 <a href="https://github.com/farhankhan117/Skin-Cancer-Detection-">
 
-🔗 **View Code →**
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284c7?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -195,11 +115,13 @@ Dual-input deep learning classifier using **EfficientNet and PyTorch** on 10,000
 
 <td width="33%" valign="top">
 
-### 🩹 MediAI
+## 🩹 MediAI
 
-<img src="./assets/mediai.png" width="100%">
+**LLM · NLP · Multimodal AI**
 
 AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-based scoring and structured report generation.
+
+<br>
 
 `Python` `LLaMA`  
 `Groq API` `NLP`  
@@ -209,7 +131,7 @@ AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-ba
 
 <a href="https://github.com/farhankhan117/MediAI---AI-Health-Consultation-System">
 
-🔗 **View Code →**
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284c7?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -217,13 +139,15 @@ AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-ba
 
 <td width="33%" valign="top">
 
-### ❤️ Heart Disease Prediction
+## ❤️ Heart Disease Prediction
 
-<img src="./assets/heart-disease.png" width="100%">
+**Machine Learning · Analytics**
 
-Machine learning project comparing supervised learning algorithms for heart disease prediction.
+Supervised machine learning project comparing multiple algorithms for heart disease prediction.
 
-**Accuracy: 89.32%**
+**89.32% Accuracy**
+
+<br>
 
 `Python` `Scikit-learn`  
 `Pandas` `Matplotlib`  
@@ -233,7 +157,7 @@ Machine learning project comparing supervised learning algorithms for heart dise
 
 <a href="https://github.com/farhankhan117/Heart-Disease-Prediction">
 
-🔗 **View Code →**
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284c7?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -244,46 +168,111 @@ Machine learning project comparing supervised learning algorithms for heart dise
 
 ---
 
-# 🧰 Tech Stack
+# 🧠 AI & Technical Expertise
 
-<div align="center">
+<table>
+<tr>
 
-| | Technologies |
-|---|---|
-| 🐍 **Programming** | Python • SQL • HTML • CSS |
-| 🤖 **AI / ML** | PyTorch • TensorFlow • Keras • Scikit-learn |
-| 👁️ **Computer Vision** | OpenCV • CNN • EfficientNet |
-| 🧠 **NLP / LLM** | NLP • LLaMA • Generative AI • Prompt Engineering |
-| 📊 **Data** | Pandas • NumPy • Matplotlib • Seaborn • Power BI |
-| 🗄️ **Database** | MySQL • SQLite |
-| 🏷️ **Annotation** | CVAT • Supervisely • Sreeni • Label Studio • V7 • Scale AI |
-| 🔧 **Tools** | Git • GitHub • VS Code • Jupyter |
+<td width="50%" valign="top">
 
-</div>
+### 🤖 AI / ML
+
+`Machine Learning`  
+`Deep Learning`  
+`PyTorch`  
+`TensorFlow`  
+`Keras`  
+`Scikit-learn`
+
+### 👁️ Computer Vision
+
+`OpenCV`  
+`CNN`  
+`Image Classification`  
+`Image Segmentation`  
+`EfficientNet`  
+`Transfer Learning`
+
+### 🧠 NLP / LLM
+
+`NLP`  
+`LLMs`  
+`LLaMA`  
+`Generative AI`  
+`Prompt Engineering`  
+`Prompt Evaluation`  
+`LLM Evaluation`  
+`RLHF`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎙️ AI Evaluation
+
+`ASR`  
+`Transcription`  
+`Audio Evaluation`  
+`Speech Quality Assessment`  
+`Multimodal AI`  
+`AI Data Annotation`
+
+### 📊 Data & Analytics
+
+`Python`  
+`Pandas`  
+`NumPy`  
+`SQL`  
+`MySQL`  
+`Power BI`  
+`Matplotlib`  
+`Seaborn`
+
+### 🏷️ Annotation
+
+`CVAT`  
+`Supervisely`  
+`Sreeni`  
+`Label Studio`  
+`V7`  
+`Scale AI`  
+`MultiMango`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ⚡ Technologies
+# ⚙️ Technology Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy,mysql,git,github,vscode,jupyter">
 
+<br><br>
+
+<img src="https://img.shields.io/badge/LLM-LLaMA-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/GenAI-Prompt%20Engineering-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data-Power%20BI-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-ASR%20%26%20Evaluation-111827?style=for-the-badge">
+
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan117&layout=compact&theme=github_dark&hide_border=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan117&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e2e8f0">
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=farhankhan117&theme=github-dark-blue&hide_border=true">
+<img width="70%" src="https://streak-stats.demolab.com/?user=farhankhan117&theme=github-dark-blue&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8">
 
 </div>
 
@@ -292,78 +281,92 @@ Machine learning project comparing supervised learning algorithms for heart dise
 # 🎓 Education
 
 <table>
-
 <tr>
-<td>
+<td width="33%">
 
-### 🎓 M.Sc. Artificial Intelligence & Machine Learning
+### 🎓 M.Sc.
 
-**Jamia Millia Islamia University**
+**Artificial Intelligence & Machine Learning**
 
-`2024 – 2026` • **CGPA: 9.0/10**
+Jamia Millia Islamia University
+
+**CGPA: 9.0 / 10**
+
+`2024 – 2026`
 
 </td>
-</tr>
 
-<tr>
-<td>
+<td width="33%">
 
 ### 🎓 PGDCA
 
-**Jamia Millia Islamia University**
+**Computer Applications**
 
-`2023 – 2024` • **CGPA: 8.11/10**
+Jamia Millia Islamia University
+
+**CGPA: 8.11 / 10**
+
+`2023 – 2024`
+
+</td>
+
+<td width="33%">
+
+### 🎓 B.Sc.
+
+**General**
+
+Indira Gandhi National Open University
+
+**68.05%**
+
+`2020 – 2023`
 
 </td>
 </tr>
-
-<tr>
-<td>
-
-### 🎓 B.Sc. General
-
-**Indira Gandhi National Open University**
-
-`2020 – 2023` • **68.05%**
-
-</td>
-</tr>
-
 </table>
 
 ---
 
 # 📜 Certifications
 
-- 🏆 Data Analytics with Python — NPTEL / IIT Roorkee
-- 🏆 SQL — MySQL / MongoDB / PostgreSQL
-- 🏆 SQL Intermediate — HackerRank
-- 🏆 Complete Data Analyst Bootcamp — Udemy
-- 🏆 Master Python with NumPy — Udemy
+<div align="center">
+
+`Data Analytics with Python – NPTEL / IIT Roorkee`
+
+`SQL – MySQL / MongoDB / PostgreSQL`
+
+`SQL Intermediate – HackerRank`
+
+`Complete Data Analyst Bootcamp – Udemy`
+
+`Master Python with NumPy – Udemy`
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/farhankhan117">
-<img src="https://img.shields.io/badge/GitHub-farhankhan117-161B22?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-farhankhan117-020617?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/farhan-khan-124814267/">
 <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Khan-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://khanfarhan.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-khanfarhan.netlify.app-0284C7?style=for-the-badge&logo=googlechrome">
-</a>
-
 <br><br>
 
 📧 **khanfarhan82795@gmail.com**
 
-### 🚀 Open to AI/ML • LLM • Generative AI • Data • Computer Vision Roles
+<br><br>
+
+### `AI/ML` · `LLM` · `Generative AI` · `Computer Vision` · `NLP`
+
+**Open to full-time opportunities**
 
 </div>
 
@@ -371,6 +374,6 @@ Machine learning project comparing supervised learning algorithms for heart dise
 
 <div align="center">
 
-**© 2026 Farhan Khan • Built with ❤️ and ☕**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0284c7,50:0369a1,100:020617">
 
 </div>
