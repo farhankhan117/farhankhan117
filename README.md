@@ -1,231 +1,176 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" bgcolor="#05070B">
-
-<br><br>
-
-# <font color="#F8FAFC">FARHAN KHAN</font>
-
-### <font color="#38BDF8">AI/ML ENGINEER</font> &nbsp;·&nbsp; <font color="#818CF8">LLM</font> &nbsp;·&nbsp; <font color="#A5B4FC">GENERATIVE AI</font>
-
-<p>
-<font color="#94A3B8">
-Building practical AI systems across LLMs, Computer Vision,
-NLP, multimodal AI and data.
-</font>
-</p>
+<img src="./assets/hero.svg" alt="Farhan Khan — AI/ML Engineer" width="100%">
 
 <br>
-
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-22C55E?style=for-the-badge&labelColor=05070B&color=22C55E">
-
-<br><br>
 
 <a href="https://github.com/farhankhan117">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
 <a href="https://www.linkedin.com/in/farhan-khan-124814267/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
+<a href="mailto:khanfarhan82795@gmail.com">
+  <img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
 </a>
 
-<br><br>
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
 
-<div align="center">
+## ◈ ABOUT ME
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,50:6366F1,100:38BDF8&section=header">
+AI/ML Engineer and AI/LLM professional with hands-on experience across **Machine Learning, Deep Learning, Computer Vision, NLP, LLM evaluation and multimodal AI**.
 
-</div>
+My work includes **LLM response evaluation, prompt engineering, AI data annotation, ASR transcription review, NLP workflows, computer vision and data analytics**. I enjoy building practical AI systems, evaluating model outputs, working with data and continuously exploring new AI technologies.
 
-# 🧠 AI Engineer Profile
+---
+
+## ◈ TECHNICAL FOCUS
 
 <table>
 <tr>
+<td width="25%" align="center">
 
-<td width="58%" valign="top">
+### ◉ LLMs
 
-### Building at the intersection of AI & data
-
-I'm an **AI/ML Engineer and AI/LLM professional** with hands-on experience across:
-
-- Machine Learning & Deep Learning
-- LLM Evaluation & Generative AI
-- Prompt Engineering & Prompt Evaluation
-- Computer Vision
-- NLP & Multimodal AI
-- ASR & Speech Evaluation
-- AI Data Annotation & Quality Review
-- Data Analytics
-
-I focus on building, evaluating and improving AI systems with an emphasis on **accuracy, quality and practical impact**.
+Prompt Engineering  
+LLM Evaluation  
+RLHF  
+LLaMA
 
 </td>
 
-<td width="42%" align="center">
+<td width="25%" align="center">
 
-<br>
+### ◉ Generative AI
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" width="260">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%2FML-0284C7?style=flat-square">
-<img src="https://img.shields.io/badge/LLM-4F46E5?style=flat-square">
-<img src="https://img.shields.io/badge/NLP-6366F1?style=flat-square">
-<img src="https://img.shields.io/badge/CV-0EA5E9?style=flat-square">
+Prompt Evaluation  
+AI Workflows  
+Multimodal AI  
+Model Output Analysis
 
 </td>
 
+<td width="25%" align="center">
+
+### ◉ Computer Vision
+
+OpenCV  
+CNN  
+Image Classification  
+EfficientNet
+
+</td>
+
+<td width="25%" align="center">
+
+### ◉ AI Evaluation
+
+ASR  
+Transcription  
+Audio Evaluation  
+Data Annotation
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 💼 Experience
+## ◈ EXPERIENCE
 
 <table>
 <tr>
-
-<td width="100%" bgcolor="#080D17">
-
-### 🔵 Analyst – AI/LLM Practice
-
-**Innodata India Private Limited**
-
-`Dec 2025 – July 2026` &nbsp; **· 8 months**
-
-<br>
-
-LLM evaluation · Prompt analysis · AI annotation · ASR · Multimodal AI
-
-</td>
-
+<th align="left">Role</th>
+<th align="left">Company</th>
+<th align="left">Period</th>
+<th align="left">Duration</th>
 </tr>
 
 <tr>
-<td width="100%" bgcolor="#080D17">
-
-### 🔵 Data Analytics Intern
-
-**Labmentix Private Limited**
-
-`Apr 2025 – Oct 2025` &nbsp; **· 7 months**
-
-<br>
-
-Python · Pandas · NumPy · EDA · Power BI · Data Analytics
-
-</td>
+<td><b>Analyst – AI/LLM Practice</b></td>
+<td>Innodata India Private Limited</td>
+<td>Dec 2025 – July 2026</td>
+<td>8 months</td>
 </tr>
 
 <tr>
-<td width="100%" bgcolor="#080D17">
-
-### 🔵 AI/ML Engineer Intern
-
-**Saral Pixel AI Labs Private Limited**
-
-`Oct 2024 – Mar 2025` &nbsp; **· 6 months**
-
-<br>
-
-Medical image annotation · Computer Vision · CNN · Image preprocessing
-
-</td>
-
+<td><b>Data Analytics Intern</b></td>
+<td>Labmentix Private Limited</td>
+<td>Apr 2025 – Oct 2025</td>
+<td>7 months</td>
 </tr>
+
+<tr>
+<td><b>AI/ML Engineer Intern</b></td>
+<td>Saral Pixel AI Labs Private Limited</td>
+<td>Oct 2024 – Mar 2025</td>
+<td>6 months</td>
+</tr>
+
 </table>
 
 ---
 
-# 🚀 Selected Work
+## ◈ FEATURED PROJECTS
 
 <table>
 <tr>
 
-<td width="33%" valign="top" bgcolor="#080D17">
+<td width="50%" valign="top">
 
 ### 🩺 Skin Cancer Detection
 
-**Computer Vision · Deep Learning**
-
-<img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=900&q=80" width="100%">
+**Deep Learning · Computer Vision**
 
 Dual-input deep learning classifier using **EfficientNet + PyTorch** on 10,000+ ISIC dermatoscopic images.
 
-### `82.3% Accuracy`
+**Accuracy:** 82.3%
 
-`Python` `PyTorch`  
-`OpenCV` `EfficientNet`  
-`Scikit-learn`
-
-<br>
-
-<a href="https://github.com/farhankhan117/Skin-Cancer-Detection-">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
+`Python` `PyTorch` `OpenCV` `EfficientNet` `Scikit-learn`
 
 </td>
 
-<td width="33%" valign="top" bgcolor="#080D17">
+<td width="50%" valign="top">
 
 ### 🩹 MediAI
 
 **LLM · NLP · Multimodal AI**
 
-<img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=900&q=80" width="100%">
-
 AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-based scoring and structured report generation.
 
-`Python` `LLaMA`  
-`Groq API` `NLP`  
-`Multimodal AI`
-
-<br>
-
-<a href="https://github.com/farhankhan117/MediAI---AI-Health-Consultation-System">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
+`Python` `LLaMA` `Groq API` `NLP` `Multimodal AI`
 
 </td>
 
-<td width="33%" valign="top" bgcolor="#080D17">
+</tr>
 
-### ❤️ Heart Disease
+<tr>
+
+<td width="50%" valign="top">
+
+### ❤️ Heart Disease Prediction
 
 **Machine Learning · Analytics**
 
-<img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80" width="100%">
+Supervised machine learning project comparing multiple algorithms for heart disease prediction.
 
-Machine learning project comparing supervised algorithms for heart disease prediction.
+**Accuracy:** 89.32%
 
-### `89.32% Accuracy`
+`Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
 
-`Python` `Scikit-learn`  
-`Pandas` `Matplotlib`  
-`Seaborn`
+</td>
 
-<br>
+<td width="50%" valign="top">
 
-<a href="https://github.com/farhankhan117/Heart-Disease-Prediction">
+### 🔬 AI Evaluation Work
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white">
+**LLM · Evaluation · Data**
 
-</a>
+Hands-on work across LLM response evaluation, prompt engineering, ASR/transcription review, AI data annotation, multimodal AI and data analytics.
+
+`LLM Evaluation` `Prompt Engineering` `ASR` `Annotation`
 
 </td>
 
@@ -234,275 +179,123 @@ Machine learning project comparing supervised algorithms for heart disease predi
 
 ---
 
-# ⚡ Technical Arsenal
-
-<table>
-<tr>
-
-<td width="50%" bgcolor="#080D17">
-
-### 🤖 AI / Machine Learning
-
-`Python`
-
-`PyTorch`
-
-`TensorFlow`
-
-`Keras`
-
-`Scikit-learn`
-
-`Machine Learning`
-
-`Deep Learning`
-
-`Transfer Learning`
-
-</td>
-
-<td width="50%" bgcolor="#080D17">
-
-### 🧠 LLM / Generative AI
-
-`LLMs`
-
-`LLaMA`
-
-`Generative AI`
-
-`Prompt Engineering`
-
-`Prompt Evaluation`
-
-`LLM Evaluation`
-
-`RLHF`
-
-`NLP`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" bgcolor="#080D17">
-
-### 👁️ Computer Vision
-
-`OpenCV`
-
-`CNN`
-
-`EfficientNet`
-
-`Image Classification`
-
-`Image Segmentation`
-
-`Medical Imaging`
-
-</td>
-
-<td width="50%" bgcolor="#080D17">
-
-### 🎙️ AI Evaluation
-
-`ASR`
-
-`Transcription`
-
-`Audio Evaluation`
-
-`Speech Quality`
-
-`Multimodal AI`
-
-`AI Data Annotation`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" bgcolor="#080D17">
-
-### 📊 Data & Analytics
-
-`Pandas`
-
-`NumPy`
-
-`SQL`
-
-`MySQL`
-
-`Matplotlib`
-
-`Seaborn`
-
-`Power BI`
-
-</td>
-
-<td width="50%" bgcolor="#080D17">
-
-### 🏷️ Annotation
-
-`CVAT`
-
-`Supervisely`
-
-`Sreeni`
-
-`Label Studio`
-
-`V7`
-
-`Scale AI`
-
-`MultiMango`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧰 Technology Stack
+## ◈ AI / ML SPECIALIZATION
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,mysql,git,github,vscode,jupyter">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-0F172A?style=for-the-badge&logoColor=38BDF8">
-<img src="https://img.shields.io/badge/LLM%20EVALUATION-0F172A?style=for-the-badge">
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-0F172A?style=for-the-badge">
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-0F172A?style=for-the-badge">
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `LLMs` · `Generative AI` · `AI Evaluation` · `Data Analytics`
 
 </div>
 
 ---
 
-# 📈 GitHub
+## ◈ TECH STACK
 
-<div align="center">
+### Programming & Data
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&hide_border=true&theme=github_dark&bg_color=05070B&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1">
+`Python` `SQL` `Pandas` `NumPy` `MySQL` `SQLite`
 
-<br>
+### Machine Learning & Deep Learning
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan117&layout=compact&hide_border=true&theme=github_dark&bg_color=05070B&title_color=38BDF8&text_color=CBD5E1">
+`Scikit-learn` `PyTorch` `TensorFlow` `Keras` `EfficientNet`
 
-<br><br>
+### NLP / LLM / Generative AI
 
-<img src="https://streak-stats.demolab.com/?user=farhankhan117&hide_border=true&background=05070B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B">
+`NLP` `LLMs` `LLaMA` `Generative AI` `Prompt Engineering` `Prompt Evaluation` `LLM Evaluation` `RLHF`
 
-</div>
+### Computer Vision
 
----
+`OpenCV` `CNN` `Image Classification` `Image Segmentation` `Transfer Learning`
 
-# 🎓 Education
+### Analytics & Visualization
 
-<table>
-<tr>
+`Power BI` `Matplotlib` `Seaborn`
 
-<td width="33%" bgcolor="#080D17" valign="top">
+### Annotation & AI Evaluation
 
-### 🎓 M.Sc.
-
-**Artificial Intelligence & Machine Learning**
-
-Jamia Millia Islamia University
-
-**9.0 / 10 CGPA**
-
-`2024 – 2026`
-
-</td>
-
-<td width="33%" bgcolor="#080D17" valign="top">
-
-### 🎓 PGDCA
-
-**Computer Applications**
-
-Jamia Millia Islamia University
-
-**8.11 / 10 CGPA**
-
-`2023 – 2024`
-
-</td>
-
-<td width="33%" bgcolor="#080D17" valign="top">
-
-### 🎓 B.Sc.
-
-**General**
-
-Indira Gandhi National Open University
-
-**68.05%**
-
-`2020 – 2023`
-
-</td>
-
-</tr>
-</table>
+`CVAT` `Supervisely` `Sreeni` `Label Studio` `V7` `Scale AI` `MultiMango` `ASR` `Transcription` `Audio Evaluation`
 
 ---
 
-# 🏆 Certifications
+## ◈ GITHUB ACTIVITY
 
 <div align="center">
-
-`DATA ANALYTICS WITH PYTHON · NPTEL / IIT ROORKEE`
-
-`SQL · MYSQL · MONGODB · POSTGRESQL`
-
-`SQL INTERMEDIATE · HACKERRANK`
-
-`COMPLETE DATA ANALYST BOOTCAMP · UDEMY`
-
-`MASTER PYTHON WITH NUMPY · UDEMY`
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-# Let's Build Something Intelligent.
-
-<font color="#64748B">
-AI/ML · LLM · Generative AI · Computer Vision · NLP
-</font>
-
-<br><br>
 
 <a href="https://github.com/farhankhan117">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-020617?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&hide_border=true&bg_color=05070B&title_color=F8FAFC&text_color=94A3B8&icon_color=818CF8&ring_color=818CF8" height="165" alt="GitHub Stats">
 </a>
 
-<a href="https://www.linkedin.com/in/farhan-khan-124814267/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/farhankhan117">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan117&layout=compact&hide_border=true&bg_color=05070B&title_color=F8FAFC&text_color=94A3B8" height="165" alt="Top Languages">
 </a>
+
+</div>
+
+---
+
+## ◈ EDUCATION
+
+<table>
+<tr>
+<th align="left">Degree</th>
+<th align="left">Institution</th>
+<th align="left">Result</th>
+<th align="left">Period</th>
+</tr>
+
+<tr>
+<td><b>M.Sc. Artificial Intelligence & Machine Learning</b></td>
+<td>Jamia Millia Islamia University</td>
+<td>CGPA <b>9.0 / 10</b></td>
+<td>2024 – 2026</td>
+</tr>
+
+<tr>
+<td><b>PGDCA – Computer Applications</b></td>
+<td>Jamia Millia Islamia University</td>
+<td>CGPA <b>8.11 / 10</b></td>
+<td>2023 – 2024</td>
+</tr>
+
+<tr>
+<td><b>B.Sc. General</b></td>
+<td>Indira Gandhi National Open University</td>
+<td><b>68.05%</b></td>
+<td>2020 – 2023</td>
+</tr>
+
+</table>
+
+---
+
+## ◈ CERTIFICATIONS
+
+- **Data Analytics with Python** — NPTEL / IIT Roorkee
+- **SQL** — MySQL / MongoDB / PostgreSQL
+- **SQL Intermediate** — HackerRank
+- **Complete Data Analyst Bootcamp** — Udemy
+- **Master Python with NumPy** — Udemy
+
+---
+
+## ◈ LET'S BUILD SOMETHING WITH AI
+
+<div align="center">
+
+### AI/ML · LLM · Generative AI · Computer Vision · NLP
+
+**Open to full-time opportunities.**
+
+<br>
+
+<a href="https://github.com/farhankhan117">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/farhan-khan-124814267/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:khanfarhan82795@gmail.com">Email</a>
 
 <br><br>
 
-**khanfarhan82795@gmail.com**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,40:0c4a6e,70:0369a1,100:38bdf8">
+<sub>Designed for GitHub — lightweight SVG, no JavaScript, no external CSS, no fake metrics.</sub>
 
 </div>
