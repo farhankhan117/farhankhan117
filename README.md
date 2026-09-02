@@ -38,7 +38,7 @@
 
 <br>
 
-<!-- ===================== INTRO ===================== -->
+---
 
 <div align="center">
 
@@ -80,18 +80,12 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%2FML-Engineer-0F172A?style=for-the-badge&logoColor=38BDF8">
-
+<img src="https://img.shields.io/badge/AI%2FML-Engineer-0F172A?style=for-the-badge">
 <br>
-
 <img src="https://img.shields.io/badge/LLM-Evaluation-0F172A?style=for-the-badge">
-
 <br>
-
 <img src="https://img.shields.io/badge/Generative-AI-0F172A?style=for-the-badge">
-
 <br>
-
 <img src="https://img.shields.io/badge/Computer-Vision-0F172A?style=for-the-badge">
 
 </td>
@@ -101,13 +95,11 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 <br>
 
-<!-- ===================== FOCUS ===================== -->
-
-<div align="center">
+---
 
 # ⚡ WHAT I WORK WITH
 
-<br>
+<div align="center">
 
 <table>
 <tr>
@@ -118,14 +110,10 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 ### LLMs
 
-`LLMs`
-
-`LLaMA`
-
-`Prompt Engineering`
-
-`LLM Evaluation`
-
+`LLMs`  
+`LLaMA`  
+`Prompt Engineering`  
+`LLM Evaluation`  
 `RLHF`
 
 </td>
@@ -136,12 +124,9 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 ### GENERATIVE AI
 
-`Generative AI`
-
-`Prompt Evaluation`
-
-`AI Workflows`
-
+`Generative AI`  
+`Prompt Evaluation`  
+`AI Workflows`  
 `Multimodal AI`
 
 </td>
@@ -152,15 +137,10 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 ### COMPUTER VISION
 
-`OpenCV`
-
-`CNN`
-
-`EfficientNet`
-
+`OpenCV`  
+`CNN`  
+`EfficientNet`  
 `Image Classification`
-
-`Medical Imaging`
 
 </td>
 
@@ -170,15 +150,10 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 ### AI / DATA
 
-`ASR`
-
-`Transcription`
-
-`Annotation`
-
+`ASR`  
+`Transcription`  
+`Annotation`  
 `Data Analytics`
-
-`Quality Review`
 
 </td>
 
@@ -212,8 +187,7 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 <br>
 
-`LLM Evaluation` &nbsp; `Prompt Analysis` &nbsp; `AI Annotation`  
-`ASR` &nbsp; `Multimodal AI`
+`LLM Evaluation` · `Prompt Analysis` · `AI Annotation` · `ASR` · `Multimodal AI`
 
 </td>
 </tr>
@@ -235,7 +209,7 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 <br>
 
-`Python` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `EDA` &nbsp; `Power BI`
+`Python` · `Pandas` · `NumPy` · `EDA` · `Power BI`
 
 </td>
 </tr>
@@ -257,8 +231,7 @@ I focus on **building, evaluating and improving AI systems** with an emphasis on
 
 <br>
 
-`Medical Image Annotation` &nbsp; `Computer Vision`  
-`CNN` &nbsp; `Image Preprocessing`
+`Medical Image Annotation` · `Computer Vision` · `CNN` · `Image Preprocessing`
 
 </td>
 </tr>
@@ -308,9 +281,9 @@ Dual-input deep learning classifier using **EfficientNet + PyTorch** on 10,000+ 
 
 <br><br>
 
-<a href="https://github.com/farhankhan117/Skin-Cancer-Detection-">
+<a href="https://github.com/farhankhan117/Skin-Cancer-Detection">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -343,7 +316,7 @@ AI healthcare assistant using **LLaMA + Groq API** for symptom analysis, rule-ba
 
 <a href="https://github.com/farhankhan117/MediAI---AI-Health-Consultation-System">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -380,7 +353,7 @@ Machine learning project comparing supervised algorithms for heart disease predi
 
 <a href="https://github.com/farhankhan117/Heart-Disease-Prediction">
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0284C7?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -404,6 +377,14 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 
 `LLM Evaluation` `Prompt Engineering`  
 `ASR` `Annotation` `Multimodal AI`
+
+<br><br>
+
+<a href="https://github.com/farhankhan117">
+
+<img src="https://img.shields.io/badge/MY%20GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
 
 </td>
 
@@ -493,10 +474,6 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 
 ## 📊 DATA & ANALYTICS
 
-<img src="https://skillicons.dev/icons?i=mysql" width="45">
-
-<br>
-
 `Pandas`  
 `NumPy`  
 `SQL`  
@@ -537,7 +514,7 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-020617?style=for-the-badge&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-020617?style=for-the-badge">
 <img src="https://img.shields.io/badge/LLM%20EVALUATION-020617?style=for-the-badge">
 <img src="https://img.shields.io/badge/COMPUTER%20VISION-020617?style=for-the-badge">
 <img src="https://img.shields.io/badge/DATA%20ANALYTICS-020617?style=for-the-badge">
@@ -563,6 +540,7 @@ Hands-on work across **LLM response evaluation, prompt engineering, ASR transcri
 <table>
 
 <tr>
+
 <td align="center">
 
 ### 01
@@ -642,19 +620,19 @@ AI system
 
 <a href="https://github.com/farhankhan117">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&hide_border=true&bg_color=05070B&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhankhan117&show_icons=true&hide_border=true&bg_color=05070B&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats">
 
 </a>
 
 <a href="https://github.com/farhankhan117">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan117&layout=compact&hide_border=true&bg_color=05070B&title_color=38BDF8&text_color=CBD5E1">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan117&layout=compact&hide_border=true&bg_color=05070B&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages">
 
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=farhankhan117&hide_border=true&background=05070B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B">
+<img src="https://streak-stats.demolab.com/?user=farhankhan117&hide_border=true&background=05070B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak">
 
 </div>
 
@@ -728,7 +706,7 @@ Indira Gandhi National Open University
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-DATA%20ANALYTICS%20WITH%20PYTHON-020617?style=for-the-badge&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/NPTEL-DATA%20ANALYTICS%20WITH%20PYTHON-020617?style=for-the-badge">
 
 <br><br>
 
